@@ -1,7 +1,7 @@
 ---
 deployment:
   tasks:
-    - export DEPLOYPATH=/home/kalimero/public_html/
+    - export DEPLOYPATH=/home/Kalimero/public_html/
     - /bin/cp -R * $DEPLOYPATH
     - /bin/cp -R .htaccess $DEPLOYPATH 2>/dev/null || true
     - /bin/cp -R .env $DEPLOYPATH 2>/dev/null || true
