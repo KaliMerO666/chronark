@@ -7,7 +7,7 @@ const navigation = [
 	{ name: "Site", href: "https://station-service.vercel.app" },
 	{ name: "About", href: "https://yamwhatyam.vercel.app" },
 	{ name: "Gallery", href: "https://picaboo.netlify.app" },
-	{ name: "Blog", href: "https://rockghostsrock.digitalpress.blog" },
+	{ name: "Shop", href: "https://" },
 	{ name: "Contact", href: "/contact" },
 ];
 
