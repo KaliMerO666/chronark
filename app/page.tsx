@@ -8,7 +8,7 @@ const navigation = [
 	{ name: "About", href: "https://yamwhatyam.vercel.app" },
 	{ name: "Gallery", href: "https://picabooo.netlify.app" },
 { name: "Publications", href: "https://nestinpace.netlify.app" },
-	{ name: "Shop", href: https://bookomatic.netlify.app//" },
+	{ name: "Shop", href: "https://bookomatic.netlify.app//" },
 	{ name: "Contact", href: "/contact" },
 ];
 
