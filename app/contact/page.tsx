@@ -1,4 +1,3 @@
-Voici le code HTML complet :
 
 ```html
 <!DOCTYPE html>
