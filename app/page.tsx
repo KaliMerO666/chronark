@@ -7,7 +7,7 @@ const navigation = [
 	{ name: "Site", href: "https://station-service.vercel.app" },
 	{ name: "About", href: "https://yamwhatyam.vercel.app" },
 	{ name: "Gallery", href: "https://picabooo.netlify.app" },
-{ name: "Publications", href: "https://nestinpace.netlify.app" },
+{ name: "Publications", href: "https://nestinpace.vercel.app" },
 	{ name: "Shop", href: "https://ko-fi.com/kalimero_666/shop" },
 	{ name: "Contact", href: "/contact" },
 ];
