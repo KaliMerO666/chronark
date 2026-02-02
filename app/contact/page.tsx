@@ -8,15 +8,15 @@ import { Card } from "../components/card";
 const socials = [
 {
 		icon: <Instagram size={20} />,
-		href: "https://instagram.com/kalimero_666",
+		href: "https://instagram.com/kalimero_____666",
 		label: "Instagram",
-		handle: "@kalimero_666",
+		handle: "@kalimero_____666",
 	},
 	{
 		icon: <Facebook size={20} />,
-		href: "https://facebook.com/kalimerox19",
+		href: "https://facebook.com/kalimero.officiel",
 		label: "Facebook",
-		handle: "@kalimerox19",
+		handle: "@kalimero.officiel",
 	},
 	{
 		icon: <Coffee size={20} />,
@@ -37,10 +37,10 @@ const socials = [
 		handle: "kalimero@ik.me",
 	},
 	{
-		icon: <Github size={20} />,
-		href: "https://github.com/kalimerO666",
-		label: "Github",
-		handle: "kalimerO666",
+		icon: <Art Majeur size={20} />,
+		href: "https://www.artmajeur.com/olivier-kalimero-quemere",
+		label: "Art Majeur",
+		handle: "@olivier-kalimero-quemere",
 	},
 ];
 
