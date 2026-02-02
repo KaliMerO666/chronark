@@ -44,7 +44,7 @@ export default function Home() {
 					 {" "}
 					<Link
 						target="_blank"
-						href="https://yamwhatyam.kalimero.rocks"
+						href="https://yamwhatyam.kalimero.ink"
 						className="underline duration-500 hover:text-zinc-300"
 					>
 						Dessine-Man
@@ -54,7 +54,7 @@ export default function Home() {
 					working on{" "}
 					<Link
 						target="_blank"
-						href="https://nest-in-pace.netlify.app"
+						href="https://nest-in-pace.vercel.app"
 						className="underline duration-500 hover:text-zinc-300"
 					>
 						graphic novels
