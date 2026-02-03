@@ -8,8 +8,7 @@ const navigation = [
 	{ name: "About", href: "https://yamwhatyam.vercel.app" },
 	{ name: "Gallery", href: "https://picabooo.netlify.app" },
 { name: "Art Majeur", href: "https://www.artmajeur.com/olivier-kalimero-quemere" },
-{ name: "Works", href: "https://nestinpace.vercel.app" },
-	{ name: "Shop", href: "https://ko-fi.com/kalimero_666/shop" },
+{ name: "Works", href: "https://nestinpace.netlify.app" },
 	{ name: "Contact", href: "/contact" },
 ];
 
@@ -45,7 +44,7 @@ export default function Home() {
 					 {" "}
 					<Link
 						target="_blank"
-						href="https://yamwhatyam.kalimero.ink"
+						href="https://yamwhatyam.vercel.app"
 						className="underline duration-500 hover:text-zinc-300"
 					>
 						Dessine-Man
@@ -55,7 +54,7 @@ export default function Home() {
 					working on{" "}
 					<Link
 						target="_blank"
-						href="https://nest-in-pace.vercel.app"
+						href="https://nest-in-pace.netlify.app"
 						className="underline duration-500 hover:text-zinc-300"
 					>
 						graphic novels
