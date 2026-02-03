@@ -9,7 +9,7 @@ const navigation = [
 	{ name: "Gallery", href: "https://picabooo.netlify.app" },
 { name: "Art Majeur", href: "https://www.artmajeur.com/olivier-kalimero-quemere" },
 
-{ name: "Publications", href: "https://nestinpace.vercel.app" },
+{ name: "Works", href: "https://nestinpace.vercel.app" },
 	{ name: "Shop", href: "https://ko-fi.com/kalimero_666/shop" },
 	{ name: "Contact", href: "/contact" },
 ];
