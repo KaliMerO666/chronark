@@ -8,7 +8,7 @@ const navigation = [
 	{ name: "About", href: "https://yamwhatyam.vercel.app" },
 	{ name: "Gallery", href: "https://picaboooo.vercel.app" },
 { name: "Art Majeur", href: "https://www.artmajeur.com/olivier-kalimero-quemere" },
-{ name: "Works", href: "https://nestinpace.vercel.app" },
+{ name: "Works", href: "https://nest-in-pace.vercel.app" },
 	{ name: "Contact", href: "/contact" },
 ];
 
@@ -54,7 +54,7 @@ export default function Home() {
 					working on{" "}
 					<Link
 						target="_blank"
-						href="https://nest-in-pace.netlify.app"
+						href="https://nest-in-pace.vercel.app"
 						className="underline duration-500 hover:text-zinc-300"
 					>
 						graphic novels
