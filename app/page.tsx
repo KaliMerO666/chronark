@@ -6,7 +6,7 @@ const navigation = [
 	
 	{ name: "Site", href: "https://station-service.vercel.app" },
 	{ name: "About", href: "https://yamwhatyam.vercel.app" },
-	{ name: "Gallery", href: "https://picabooo.netlify.app" },
+	{ name: "Gallery", href: "https://picabooo.vercel.app" },
 { name: "Art Majeur", href: "https://www.artmajeur.com/olivier-kalimero-quemere" },
 { name: "Works", href: "https://nestinpace.netlify.app" },
 	{ name: "Contact", href: "/contact" },
