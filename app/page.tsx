@@ -8,7 +8,7 @@ const navigation = [
 	{ name: "About", href: "https://yamwhatyam.vercel.app" },
 	{ name: "Gallery", href: "https://picabooooo.vercel.app" },
 { name: "Art Majeur", href: "https://www.artmajeur.com/olivier-kalimero-quemere" },
-{ name: "Works", href: "https://kalimero-works.vercel.app/" },
+{ name: "Works", href: "https://kalimero-works.vercel.app" },
 	{ name: "Contact", href: "/contact" },
 ];
 
