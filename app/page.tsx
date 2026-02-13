@@ -54,7 +54,7 @@ export default function Home() {
 					working on{" "}
 					<Link
 						target="_blank"
-						href="https://kalimero-works.vercel.app/"
+						href="https://kalimero-works.vercel.app"
 						className="underline duration-500 hover:text-zinc-300"
 					>
 						graphic novels
