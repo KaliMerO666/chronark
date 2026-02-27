@@ -119,6 +119,35 @@ export default function RootLayout({
 				<Analytics />
 			</head>
 			<body
+				export function JsonLd() {
+  const schema = {
+    "@context": "https://schema.org",
+    "@type": "Person",
+    name: "Kalimero Von Bülow",
+    alternateName: ["Kalimero", "Olivier Quéméré", "kalimero_666"],
+    url: "https://kalimero.ink",
+    sameAs: [
+      "https://kalimero-station-service.vercel.app/",
+      "https://www.instagram.com/kalimero_____666/",
+      "https://graphics.social/@kalimero",
+      "https://www.artmajeur.com/olivier-kalimero-quemere",
+      "https://linktr.ee/kalimero",
+      "https://www.linkedin.com/in/kalimero666",
+      "https://youtube.com/@kalimero_666",
+    ],
+    jobTitle: "Artiste, ComiXmaker, Graphiste",
+    description:
+      "Artiste underground belge, comiXmaker, graphiste diplômé de l'ERG (Ecole de Recherche Graphique) à Bruxelles.",
+    email: "kalimero@ik.me",
+  };
+
+  return (
+    <script
+      type="application/ld+json"
+      dangerouslySetInnerHTML={{ __html: JSON.stringify(schema) }}
+    />
+  );
+			}
 				className={`bg-black ${
 					process.env.NODE_ENV === "development" ? "debug-screens" : undefined
 				}`}
