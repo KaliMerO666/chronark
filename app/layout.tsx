@@ -1,4 +1,56 @@
 import "../global.css";
+
+import type { Metadata } from "next";
+
+export const metadata: Metadata = {
+  metadataBase: new URL("https://kalimero.ink"),
+  title: {
+    default: "Kalimero Von Bülow",
+    template: "%s — Kalimero Von Bülow",
+  },
+  description:
+    "Site officiel de Kalimero Von Bülow — artiste underground, comiXmaker, graphiste diplômé de l'ERG Bruxelles. Comics, portraits sur commande, art graphique.",
+  keywords: [
+    "Kalimero",
+    "Kalimero Von Bülow",
+    "Olivier Quéméré",
+    "artiste underground",
+    "comics",
+    "bande dessinée",
+    "portrait sur commande",
+    "art graphique",
+    "PRNGRFX",
+    "ERG Bruxelles",
+  ],
+  authors: [{ name: "Kalimero Von Bülow", url: "https://kalimero.ink" }],
+  creator: "Kalimero Von Bülow",
+  robots: {
+    index: true,
+    follow: true,
+  },
+  openGraph: {
+    type: "website",
+    url: "https://kalimero.ink",
+    title: "Kalimero Von Bülow",
+    description:
+      "Artiste underground, comiXmaker, graphiste. Portraits sur commande à partir de 60€.",
+    siteName: "Kalimero Von Bülow",
+    images: [
+      {
+        url: "/showcase-kalimero-ink.jpg",
+        width: 1200,
+        height: 630,
+        alt: "Kalimero Von Bülow",
+      },
+    ],
+  },
+  twitter: {
+    card: "summary_large_image",
+    title: "Kalimero Von Bülow",
+    description:
+      "Artiste underground, comiXmaker, graphiste. Portraits sur commande à partir de 60€.",
+    images: ["/showcase-kalimero-ink.jpg"],
+  },
 import { Inter } from "@next/font/google";
 import LocalFont from "@next/font/local";
 import { Metadata } from "next";
