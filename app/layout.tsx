@@ -85,8 +85,7 @@ function JsonLd() {
     sameAs: [
       "https://kalimero-station-service.vercel.app/",
       "https://www.instagram.com/kalimero_____666/",
-      "https://kalimero-letsrock.vercel.app/grid"
-      "https://graphics.social/@kalimero",
+       "https://graphics.social/@kalimero",
       "https://www.artmajeur.com/olivier-kalimero-quemere",
       "https://linktr.ee/kalimero",
       "https://www.linkedin.com/in/kalimero666",
