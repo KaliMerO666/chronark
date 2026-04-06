@@ -4,11 +4,12 @@ import Particles from "./components/particles";
 
 const navigation = [
 	
-	{ name: "Site", href: "https://kalimero-station-service.vercel.app/" },
-	{ name: "About", href: "https://yamwhatyam.vercel.app" },
-	{ name: "Gallery", href: "https://picabooooo.vercel.app" },
-{ name: "Art-Majeur", href: "https://www.artmajeur.com/olivier-kalimero-quemere" },
-{ name: "Works", href: "https://kalimero-works.vercel.app" },
+	{ name: "Station Service", href: "https://kalimero-station-service.vercel.app/" },
+	{ name: "Yam What Yam", href: "https://yamwhatyam.vercel.app" },
+    { name: "Let's Rock", href: "https://kalimero-letsrock.vercel.app/grid" },
+	{ name: "Picaboo", href: "https://picabooooo.vercel.app" },
+    { name: "Art-Majeur", href: "https://www.artmajeur.com/olivier-kalimero-quemere" },
+ bb { name: "Publications", href: "https://kalimero-works.vercel.app" },
 	{ name: "Contact", href: "/contact" },
 ];
 
