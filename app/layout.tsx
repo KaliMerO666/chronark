@@ -85,6 +85,7 @@ function JsonLd() {
     sameAs: [
       "https://kalimero-station-service.vercel.app/",
       "https://www.instagram.com/kalimero_____666/",
+      "https://kalimero-letsrock.vercel.app/grid"
       "https://graphics.social/@kalimero",
       "https://www.artmajeur.com/olivier-kalimero-quemere",
       "https://linktr.ee/kalimero",
@@ -93,7 +94,7 @@ function JsonLd() {
     ],
     jobTitle: "Artiste, ComiXmaker, Graphiste",
     description:
-      "Artiste underground belge, comiXmaker, graphiste diplômé de l'ERG (Ecole de Recherche Graphique) à Bruxelles.",
+      "Artiste underground breton, comiXmaker, graphiste diplômé de l'ERG (Ecole de Recherche Graphique) à Bruxelles.",
     email: "kalimero@ik.me",
   };
 
