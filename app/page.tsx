@@ -9,7 +9,7 @@ const navigation = [
     { name: "Let's Rock", href: "https://kalimero-letsrock.vercel.app/grid" },
 	{ name: "Picaboo", href: "https://picabooooo.vercel.app" },
     { name: "Art-Majeur", href: "https://www.artmajeur.com/olivier-kalimero-quemere" },
- bb { name: "Publications", href: "https://kalimero-works.vercel.app" },
+  { name: "Publications", href: "https://kalimero-works.vercel.app" },
 	{ name: "Contact", href: "/contact" },
 ];
 
