@@ -15,15 +15,15 @@ const socials = [
 	},
 	{
 		icon: <Instagram size={20} />,
-		href: "https://instagram.com/kalimero_____666",
+		href: "https://instagram.com/kalimero.ink",
 		label: "Instagram",
-		handle: "@kalimero_____666",
+		handle: "@kalimero.ink",
 	},
 	{
 		icon: <Facebook size={20} />,
-		href: "https://facebook.com/kalimero.officiel",
+		href: "https://facebook.com/kalimero.ink",
 		label: "Facebook",
-		handle: "@kalimero.officiel",
+		handle: "@kalimero.ink",
 	},
 	{
 		icon: <Coffee size={20} />,
