@@ -90,7 +90,7 @@ function JsonLd() {
       "https://www.artmajeur.com/olivier-kalimero-quemere",
       "https://linktr.ee/kalimero",
       "https://www.linkedin.com/in/kalimero666",
-      https://youtube.com/@kalimero_von_bulow",
+      " "https://youtube.com/@kalimero_von_bulow",
     ],
     jobTitle: "Artiste, ComiXmaker, Graphiste",
     description:
