@@ -48,7 +48,7 @@ export const metadata: Metadata = {
     siteName: "kalimero.ink",
     images: [
       {
-        url: "https://kalimero.ink/og.png",
+        url: "https://kalimero.ink/og (1).jpg",
         width: 1920,
         height: 1080,
       },
